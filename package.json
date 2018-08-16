@@ -1,0 +1,11 @@
+{
+  "name": "har-processor",
+  "version": "0.1.0",
+  "description": "Basic HAR files processor",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sergiouph",
+  "license": "MIT"
+}
